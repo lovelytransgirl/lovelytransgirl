@@ -5,7 +5,6 @@
 - 👀  &nbsp; Gay Femboy Furry
 - 🤔  &nbsp; Crazy Error Maker or whatever you called it
 - 🌹  &nbsp; Transgender
-- 💖  &nbsp; My girlfriend: https://github.com/blueskychan-dev (just kidding)
 
 <h3> 👩‍💻 &nbsp;What programming language i actually liked</h3>
 
