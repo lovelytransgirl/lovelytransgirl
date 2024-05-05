@@ -2,18 +2,12 @@
 
 <h3> 🤓 &nbsp;Infomation About myself, </h3>
 
-- 👀  &nbsp; Gay Femboy Furry
-- 🤔  &nbsp; Crazy Error Maker or whatever you called it
-- 🌹  &nbsp; MTF (she/her)
-- 😍 &nbsp; Has a huge knots.
+- 👀  &nbsp; Likes writing Minecraft Plugins and stuff
+- 😍 &nbsp; among us
 
 <h3> 👩‍💻 &nbsp;What programming language i actually liked</h3>
 
 - 🦊 &nbsp; Java, JS, Python(was forced) and nothing else.
-
-<h3> ❓ &nbsp;What am i working on?</h3>
-
-- 💻 &nbsp;Secret Discord Clone Project @ notmycode.dev
 
 <br/>
 
