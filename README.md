@@ -1,27 +1,28 @@
-<h2> Hello chat, It is me: UnityG</h2>
+# Terminal - cat Hello.MD
 
-<h3> 🤓 &nbsp;Infomation About myself, </h3>
+Hello People! I'm **furrygang**. I write **Minecraft Plugins** and **Other Stuff**!
 
-- 👀  &nbsp; Likes writing Minecraft Plugins and stuff
-- 😍 &nbsp; among us
+Here are the **programming languages** I know about/learning about:
 
-<h3> 👩‍💻 &nbsp;What programming language i actually liked</h3>
+![what i know/leanring](https://skillicons.dev/icons?i=java,python,js,nodejs,go,haxe)
 
-- 🦊 &nbsp; Java, JS, Python(was forced) and nothing else.
+# Terminal - cat TechSlack.MD
 
-<br/>
+**My Tech Slack:**
+
+![slack](https://skillicons.dev/icons?i=arch,ubuntu,debian,nginx,cloudflare,azure,aws,docker,idea)
+
+# Terminal - cat Statistics.MD
 
 <a href="https://github.com/UnitieG">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UnitieG&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UnitieG&theme=buefy&layout=compact" />
 </a>
 
-<br/>
+# Terminal - cat Contact.MD
 
-<h3> 📩 &nbsp;How to send me messages, </h3>
+You can contact me on these platform! Click the icons and it'll redirect you!
 
-<p align="center">
-<a href="https://discord.com/users/1128307370301337660"><img alt="Discord" src="https://img.shields.io/badge/Discord-unityg-blue?style=flat-square&logo=discord"></a>
-<a href="mailto:epicmac2010@notmycode.dev"><img alt="Email" src="https://img.shields.io/badge/Email-epicmac2010@notmycode.dev-blue?style=flat-square&logo=gmail"></a>
-</p>
-
+[![yeah](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1314581543682834473)
+[![yeah](https://skillicons.dev/icons?i=twitter)](https://x.com/un1tyg)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](furries@duck.com)
