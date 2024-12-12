@@ -15,8 +15,8 @@ Here are the **programming languages** I know about/learning about:
 # Terminal - cat Statistics.MD
 
 <a href="https://github.com/UnitieG">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UnitieG&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UnitieG&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UnitieG&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UnitieG&theme=dark&layout=compact" />
 </a>
 
 # Terminal - cat Contact.MD
