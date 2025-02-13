@@ -4,7 +4,7 @@ Hello People! I'm **furrygang**. I write **Minecraft Plugins** and **Other Stuff
 
 Here are the **programming languages** I know about/learning about:
 
-![what i know/leanring](https://skillicons.dev/icons?i=java,python,js,nodejs,go,haxe,kotlin,react,tailwindcss,nextjs)
+![what i know/leanring](https://skillicons.dev/icons?i=java,python,js,nodejs,go,haxe,kotlin,react,tailwindcss,nextjs,rust)
 
 # Terminal - cat TechSlack.MD
 
