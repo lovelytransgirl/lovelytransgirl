@@ -15,8 +15,8 @@ Here are the **programming languages** I know about/learning about:
 # Terminal - cat Statistics.MD
 
 <a href="https://github.com/UnitieG">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UnitieG&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UnitieG&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=furriesgang&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=furriesgang&theme=dark&layout=compact" />
 </a>
 
 # Terminal - cat Contact.MD
@@ -24,5 +24,5 @@ Here are the **programming languages** I know about/learning about:
 You can contact me on these platform! Click the icons and it'll redirect you!
 
 [![yeah](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1314581543682834473)
-[![yeah](https://skillicons.dev/icons?i=twitter)](https://x.com/un1tyg)
+[![yeah](https://skillicons.dev/icons?i=twitter)](https://x.com/furriesgang)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](furries@duck.com)
