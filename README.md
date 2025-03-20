@@ -9,7 +9,7 @@
 <p align="center">Here are the <strong>programming languages</strong> I know about/learning about:</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,go,haxe,kotlin,react,tailwindcss,nextjs,rust,bash,nextcord" alt="what I know/learning" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,go,haxe,kotlin,react,tailwindcss,nextjs,rust,bash" alt="what I know/learning" />
 </p>
 
 ---
