@@ -1,7 +1,7 @@
 # <p align="center">🏳️‍⚧️ About Me 🏳️‍⚧️</p>
 
 <p align="center">
-  Hello World, I'm <strong>lovelytransgirl</strong> or known as <strong>furrygang</strong>.<br>
+  Hello World, I'm <strong>lovelytransgirl</strong><br>
   I'm a self-taught <strong>programmer</strong> and <strong>designer</strong> from Thailand. 💻✨<br>
   I am 15 years old, and my pronouns are <strong>she/they 🏳️‍⚧️💗</strong>!
 </p>
